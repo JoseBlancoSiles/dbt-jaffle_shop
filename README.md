@@ -1,11 +1,6 @@
-Welcome to your new dbt project!
+## dbt
 
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
-
+testing sources and model transformations with dbt
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
